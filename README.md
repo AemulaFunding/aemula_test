@@ -1,11 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Aemula Funding test web application. Setting up basic shell for Aemula functionality. Learning Ruby on Rails in web development
 
-Things you may want to cover:
-
-* Ruby version
+* Ruby version - 2.3.3p222 (2016-11-21 revision 56859)
 
 * System dependencies
 
